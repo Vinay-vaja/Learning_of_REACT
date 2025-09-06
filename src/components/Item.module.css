@@ -1,0 +1,18 @@
+.vk-item{
+    background-color:rgb(240, 182, 144);
+    color: rgb(60, 13, 169);
+
+}
+.vk-span{
+    padding: 2px;
+    margin: 2px;
+
+}
+.btn{
+
+   float: right;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(51, 137, 183);
+    color: white;
+}
